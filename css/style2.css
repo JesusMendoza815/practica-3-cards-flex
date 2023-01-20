@@ -1,0 +1,13 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+    align-items: center;
+    margin: 0;
+}
+
+.card_container {
+    border: 1px solid black;
+    width: 90%;
+}
